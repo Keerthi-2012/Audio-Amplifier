@@ -122,16 +122,3 @@ A Class AB power amplifier:
 5. Temperature stability testing
 6. Slew rate measurement
 
-## Future Improvements
-- Integration of volume control
-- Implementation of tone control circuits
-- Power supply noise rejection enhancement
-- PCB layout optimization for noise reduction
-- Thermal management improvements
-
-## License
-This project is released under the MIT License.
-
-## Acknowledgments
-- EW-2 Course Staff
-- Project Supervisor
