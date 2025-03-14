@@ -122,3 +122,5 @@ A Class AB power amplifier:
 5. Temperature stability testing
 6. Slew rate measurement
 
+
+Achieved a total gain of 450 and operated effectively in the frequency range of 100 Hz to 12 kHz. Supported an input voltage range of 10-20mV peak-to-peak (Vpp).Delivered an output power of 1.5W, operating with a power supply of ±5V
