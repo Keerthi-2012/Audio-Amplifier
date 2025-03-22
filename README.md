@@ -89,22 +89,10 @@ A Class AB power amplifier:
   - Proper bias current selection
   - Component selection for high-frequency operation
 
-## Files Included
-- `schematic/` - Circuit schematics for each amplifier stage
-- `simulation/` - SPICE simulation files and results
-- `pcb/` - PCB design files
-- `bom/` - Bill of Materials
-- `measurements/` - Measured performance characteristics
-- `docs/` - Additional documentation and design calculations
-
-## Getting Started
-
 ### Required Tools
-1. Circuit simulation software (LTspice, PSPICE, etc.)
-2. PCB design software (KiCad, Eagle, etc.)
-3. Oscilloscope and function generator for testing
-4. Multimeter for basic measurements
-5. Distortion analyzer (optional)
+1. Circuit simulation software (LTspice)
+2. Digital Storage Oscilloscope and function generator for testing
+3. Multimeter for basic measurements
 
 ### Build Process
 1. Verify individual stage operations using simulation
@@ -123,4 +111,4 @@ A Class AB power amplifier:
 6. Slew rate measurement
 
 
-Achieved a total gain of 450 and operated effectively in the frequency range of 100 Hz to 12 kHz. Supported an input voltage range of 10-20mV peak-to-peak (Vpp).Delivered an output power of 1.5W, operating with a power supply of ±5V
+Achieved a total gain of 450 and operated effectively in the frequency range of 100 Hz to 15 kHz. Supported an input voltage range of 10-20mV peak-to-peak (Vpp).Delivered an output power of 1.5W, operating with a power supply of ±5V
